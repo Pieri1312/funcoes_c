@@ -4,7 +4,5 @@ Um jogo interativo para organizar linhas de funções em C utilizando arrastar e
 
 ## 🚀 Como executar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/organize_funcoes_c.git
-   cd organize_funcoes_c
+git clone https://github.com/Pieri1312/funcoes_c
+cd funcoes_c
